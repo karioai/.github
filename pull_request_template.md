@@ -12,7 +12,4 @@
 
 ## How It Was Tested
 <!-- Describe how you verified this works -->
-- [ ] Unit tests
-- [ ] Manual testing
-- [ ] Integration tests
 
